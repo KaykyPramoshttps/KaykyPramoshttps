@@ -1,7 +1,7 @@
 <div align="center"> <!-- ===================== HEADER / BANNER ===================== --> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Kayky%20Pereira&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Analista%20de%20Dados%20Jr.%20%7C%20Business%20Intelligence%20%7C%20An%C3%A1lise%20de%20Neg%C3%B3cios&descSize=18&descAlignY=58&animation=fadeIn" width="100%" /> <!-- ===================== TYPING SVG ===================== --> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Transformando+dados+em+decis%C3%B5es+de+neg%C3%B3cio;An%C3%A1lises+end-to-end%3A+da+ingest%C3%A3o+%C3%A0+visualiza%C3%A7%C3%A3o;SQL+%E2%80%A2+Python+%E2%80%A2+Power+BI+%E2%80%A2+Storytelling+com+dados" alt="Typing SVG" /> </div>
 👋 Sobre mim
 
-Sou Analista de Dados Jr. com foco em transformar dados em decisões de negócio. Construo análises end-to-end —  à visualização — com ênfase em datasets públicos brasileiros e perguntas com impacto real.
+Sou Analista de Dados Jr. com foco em transformar dados em decisões de negócio. Construo análises end-to-end —  ingestão à visualização — com ênfase em datasets públicos brasileiros e perguntas com impacto real.
 
 🔭 Atuo na ponte entre dados e negócio, traduzindo perguntas de stakeholders em soluções analíticas
 📊 Trabalho o ciclo completo: SQL para extrair, Python para tratar e modelar, Power BI para comunicar
