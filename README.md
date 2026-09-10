@@ -4,9 +4,13 @@
 Sou Analista de Dados Jr. com foco em transformar dados em decisões de negócio. Construo análises end-to-end —  ingestão à visualização — com ênfase em datasets públicos brasileiros e perguntas com impacto real.
 
 🔭 Atuo na ponte entre dados e negócio, traduzindo perguntas de stakeholders em soluções analíticas
+
 📊 Trabalho o ciclo completo: SQL para extrair, Python para tratar e modelar, Power BI para comunicar
+
 🌱 Estudando modelagem dimensional, boas práticas de análise e storytelling com dados
+
 🎯 Aberto a oportunidades em Análise de Dados, BI ou Análise de Negócios (Estágio / Júnior)
+
 📍 São Paulo, SP — Brasil
 🛠️ Stack
 <div align="center">
