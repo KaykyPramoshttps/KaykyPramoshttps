@@ -56,53 +56,6 @@ Sou **Analista de Dados Jr.** com foco em transformar dados em **decisões de ne
 
 ---
 
-## 🚀 Projetos em destaque
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">📊 PROJETO-1-TITULO</h3>
-
-<p align="center">
-<a href="https://github.com/SEU-USERNAME/REPO-1">
-<img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-2c5364?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</p>
-
-<p align="center">Descrição breve do primeiro projeto em destaque.</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">🚗 PROJETO-2-TITULO</h3>
-
-<p align="center">
-<a href="https://github.com/SEU-USERNAME/REPO-2">
-<img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-2c5364?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</p>
-
-<p align="center">Descrição breve do segundo projeto em destaque.</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/DAX-01B8AA?style=flat-square" />
-<img src="https://img.shields.io/badge/Modelagem_Dimensional-243B55?style=flat-square" />
-</p>
-
-</td>
-</tr>
-</table>
-
----
-
 ## 📈 GitHub em números
 
 <div align="center">
