@@ -1,37 +1,81 @@
-<div align="center"> <!-- ===================== HEADER / BANNER ===================== --> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Kayky%20Pereira&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Analista%20de%20Dados%20Jr.%20%7C%20Business%20Intelligence%20%7C%20An%C3%A1lise%20de%20Neg%C3%B3cios&descSize=18&descAlignY=58&animation=fadeIn" width="100%" /> <!-- ===================== TYPING SVG ===================== --> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Transformando+dados+em+decis%C3%B5es+de+neg%C3%B3cio;An%C3%A1lises+end-to-end%3A+da+ingest%C3%A3o+%C3%A0+visualiza%C3%A7%C3%A3o;SQL+%E2%80%A2+Python+%E2%80%A2+Power+BI+%E2%80%A2+Storytelling+com+dados" alt="Typing SVG" /> </div>
-👋 Sobre mim
+<!-- ===================== HEADER / BANNER ===================== -->
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Kayky%20Pereira&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Analista%20de%20Dados%20Jr.%20%7C%20Business%20Intelligence%20%7C%20An%C3%A1lise%20de%20Neg%C3%B3cios&descSize=18&descAlignY=58&animation=fadeIn"
+    width="100%"
+  />
 
-Sou Analista de Dados Jr. com foco em transformar dados em decisões de negócio. Construo análises end-to-end —  ingestão à visualização — com ênfase em datasets públicos brasileiros e perguntas com impacto real.
+  <!-- ===================== TYPING SVG ===================== -->
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Transformando+dados+em+decis%C3%B5es+de+neg%C3%B3cio;An%C3%A1lises+end-to-end%3A+da+ingest%C3%A3o+%C3%A0+visualiza%C3%A7%C3%A3o;SQL+%E2%80%A2+Python+%E2%80%A2+Power+BI+%E2%80%A2+Storytelling+com+dados"
+    alt="Typing SVG"
+  />
+</div>
 
-🔭 Atuo na ponte entre dados e negócio, traduzindo perguntas de stakeholders em soluções analíticas
+---
 
-📊 Trabalho o ciclo completo: SQL para extrair, Python para tratar e modelar, Power BI para comunicar
+<!-- ===================== SOBRE MIM ===================== -->
+## 👋 Sobre mim
 
-🌱 Estudando modelagem dimensional, boas práticas de análise e storytelling com dados
+Sou Analista de Dados Jr. com foco em transformar dados em decisões de negócio. Construo análises end-to-end — ingestão à visualização — com ênfase em datasets públicos brasileiros e perguntas com impacto real.
 
-🎯 Aberto a oportunidades em Análise de Dados, BI ou Análise de Negócios (Estágio / Júnior)
+- 🔭 Atuo na ponte entre dados e negócio, traduzindo perguntas de stakeholders em soluções analíticas
+- 📊 Trabalho o ciclo completo: SQL para extrair, Python para tratar e modelar, Power BI para comunicar
+- 🌱 Estudando modelagem dimensional, boas práticas de análise e storytelling com dados
+- 🎯 Aberto a oportunidades em Análise de Dados, BI ou Análise de Negócios (Estágio / Júnior)
+- 📍 São Paulo, SP — Brasil
 
-📍 São Paulo, SP — Brasil
-🛠️ Stack
+---
+
+<!-- ===================== STACK ===================== -->
+## 🛠️ Stack
+
 <div align="center">
 
-Dados & SQL<br> <a href="https://www.microsoft.com/sql-server"><img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /></a> <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /></a> <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+  <!-- ---- Dados & SQL ---- -->
+  **Dados & SQL**<br>
+  <a href="https://www.microsoft.com/sql-server"><img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
+  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
 
-Linguagem & Análise<br> <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a> <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /></a> <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /></a> <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" /></a> <a href="https://seaborn.pydata.org/"><img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" /></a> <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /></a>
+  <br><br>
 
-BI & Visualização<br> <a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /></a> <a href="https://learn.microsoft.com/en-us/dax/"><img src="https://img.shields.io/badge/DAX-01B8AA?style=for-the-badge&logo=powerbi&logoColor=white" /></a> <a href="https://en.wikipedia.org/wiki/Dimensional_modeling"><img src="https://img.shields.io/badge/Modelagem_de_Dados-243B55?style=for-the-badge" /></a> <a href="https://en.wikipedia.org/wiki/Data_storytelling"><img src="https://img.shields.io/badge/Storytelling_com_Dados-203A43?style=for-the-badge" /></a>
+  <!-- ---- Linguagem & Análise ---- -->
+  **Linguagem & Análise**<br>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /></a>
+  <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /></a>
+  <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a href="https://seaborn.pydata.org/"><img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /></a>
 
-Ferramentas<br> <a href="https://www.microsoft.com/microsoft-365/excel"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /></a> <a href="https://dbeaver.io/"><img src="https://img.shields.io/badge/DBeaver-382A22?style=for-the-badge&logo=dbeaver&logoColor=white" /></a> <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a> <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></a>
+  <br><br>
 
- 🤝 Vamos conversar?
+  <!-- ---- BI & Visualização ---- -->
+  **BI & Visualização**<br>
+  <a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /></a>
+  <a href="https://learn.microsoft.com/en-us/dax/"><img src="https://img.shields.io/badge/DAX-01B8AA?style=for-the-badge&logo=powerbi&logoColor=white" /></a>
+  <a href="https://en.wikipedia.org/wiki/Dimensional_modeling"><img src="https://img.shields.io/badge/Modelagem_de_Dados-243B55?style=for-the-badge" /></a>
+  <a href="https://en.wikipedia.org/wiki/Data_storytelling"><img src="https://img.shields.io/badge/Storytelling_com_Dados-203A43?style=for-the-badge" /></a>
+
+  <br><br>
+
+  <!-- ---- Ferramentas ---- -->
+  **Ferramentas**<br>
+  <a href="https://www.microsoft.com/microsoft-365/excel"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /></a>
+  <a href="https://dbeaver.io/"><img src="https://img.shields.io/badge/DBeaver-382A22?style=for-the-badge&logo=dbeaver&logoColor=white" /></a>
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></a>
+
+</div>
+
+---
+
+<!-- ===================== CONTATO ===================== -->
+## 🤝 Vamos conversar?
 
 <div align="center">
-
-<a href="https:linkedin.com/in/kayky-pereira-ramos-180770274">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=pereiraramoskayky@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
+  <a href="https://linkedin.com/in/kayky-pereira-ramos-180770274"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pereiraramoskayky@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
