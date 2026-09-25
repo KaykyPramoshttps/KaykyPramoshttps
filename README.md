@@ -56,16 +56,6 @@ Sou **Analista de Dados Jr.** com foco em transformar dados em **decisões de ne
 
 ---
 
-## 📈 GitHub em números
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SEU-USERNAME&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## Vamos conversar?
 
 <div align="center">
