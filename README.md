@@ -56,7 +56,7 @@ Sou **Analista de Dados Jr.** com foco em transformar dados em **decisões de ne
 
 ---
 
-## Vamos conversar?
+## Contato
 
 <div align="center">
 
